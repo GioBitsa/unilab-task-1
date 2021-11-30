@@ -1,0 +1,82 @@
+
+
+/* ------ Acumin Pro font ------ */
+
+/* woff */
+@font-face {
+    font-family: 'Acumin Pro';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./Acumin-Pro/woff/Acumin-RPro.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: 'Acumin Pro Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./Acumin-Pro/woff/Acumin-BdPro.woff') format('woff');
+}
+
+
+/* ------ Helvetica font ------ */
+
+/* ttf */
+@font-face {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./Helvetica-Font/ttf/Helvetica.ttf') format('ttf');
+}
+
+
+@font-face {
+    font-family: 'Helvetica Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./Helvetica-Font/ttf/Helvetica-Bold.ttf') format('ttf');
+}
+
+
+@font-face {
+    font-family: 'Helvetica Oblique';
+    src: url('./Helvetica-Font/ttf/Helvetica-Oblique.ttf') format('ttf');
+}
+
+
+@font-face {
+    font-family: 'Helvetica Bold Oblique';
+    src: url('./Helvetica-Font/ttf/Helvetica-BoldOblique.ttf') format('ttf');
+}
+
+
+
+/* woff */
+
+@font-face {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./Helvetica-Font/woff/Helvetica.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Helvetica Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./Helvetica-Font/woff/Helvetica-Bold.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Helvetica Oblique';
+    src: url('./Helvetica-Font/woff/Helvetica-Oblique.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Helvetica Bold Oblique';
+    src: url('./Helvetica-Font/woff/Helvetica-BoldOblique.woff') format('woff');
+}
+
